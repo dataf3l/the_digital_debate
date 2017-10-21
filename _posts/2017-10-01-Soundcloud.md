@@ -1,11 +1,11 @@
 ---
 layout: post
-title: SoundCloud: el Startup que todos quisimos ser, no esta en su mejor momento.
-tags: [hyde]
-description: >
-  La caída de un grande
+title: SoundCloud, el Startup que todos quisimos ser, no esta en su mejor momento.
+description: La caida de un grande
+tags: ["negocios-digitales", "emprendimiento","digital"]
 author: mdo
 ---
+
 Tal vez sea por un afecto personal o quizás por que tuve la oportunidad de estar en sus oficinas en Berlín y conocer de primera mano a uno de los Startups con mas proyección en el mundo de los negocios digitales es que escribo este artículo. Era como tocar, ver y oler la virtualidad, gracias a Theresa Viehbeck que después de muchos mails me abrió sus oficinas (antes de la gran remodelación) para una rápida visita en Rosenthaler Strasse 13, donde por supuesto nunca olvidaré la entrada con sus dos tornamesas y el logo de Soundcloud, recuerdo haberme dicho “Este es el startup que todos queremos ser”.
 
 Me costo mucho encontrarlos en esa época, por allá en el 2008 por la lógica que tienen los grandes del underground de siempre mantenerse ocultos solo con una cara digital, fue como conocer a tu artista favorito, hoy puedo decir que tuve la oportunidad de conocer en sus inicios a unos de los Startups más creativos de la escena mundial.
