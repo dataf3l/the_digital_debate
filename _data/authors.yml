@@ -2,17 +2,12 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `qwtel` to your shortname (used in the front matter to set a page's author, e.g. `author: qwtel`).
 qwtel:
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  name:              The Digital Debate Team
+  email:             <thedigitaldebate@gmail.com>
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-    Open `_data/authors.yml` to edit this text.
+  about:             " "
 
   # This photo will be used in the about section
   picture:
@@ -27,7 +22,7 @@ qwtel:
   # Icons appear in order, can be rearranged:
   social:
     # facebook:        <username>
-    twitter:         <username>
+    twitter:         "@thedigitaldebat"
     # google:          <number>
     # vk:              <username>
     # youtube:         <string_string_string>
@@ -55,28 +50,25 @@ qwtel:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    # linkedin:        <firstname-lastname-string>
+    linkedin:        "digital-debate-536977105"
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
     # stumbleupon:     <username>
     # paypal:          <username>
-    email:           mailto:<mail@domain.tld>
+    email:           mailto:<thedigitaldebate@gmail.com>
     rss:             https://<url>/feed.xml
 
 # Another author
-mdo:
-  name:              <firtname> <lastname>
-  email:             <mail@domain.tld>
+tdd:
+  name:              The Digital Debate Team
+  email:             <thedigitaldebate@gmail.com>
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Para contactarnos envíanos un email thedigitaldebate@gmail.com
 
-    Open `_data/authors.yml` to edit this text.
-  picture:           https://placehold.it/128x128
+  picture:           /assets/img/DD_logo_morado_3.1.png
   social:
     github:          <username>
-    twitter:         <username>
+    twitter:         "@thedigitaldebat"
   image: 'data:image/gif;base64,R0lGODlhAQABAPAAACAgIP///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==' # http://jsfiddle.net/LPxrT/
   color: '#268bd2'
