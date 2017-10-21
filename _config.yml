@@ -2,29 +2,29 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               Hydejack
+title:               The Digital Debate
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
-url:                 https://qwtel.com
+url:                 http://blog.thedigitaldebate.com
 
 # Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository
-baseurl:             /hydejack
+baseurl:             /
 
 # A very short description of your page
-tagline:             A pretentious two-column Jekyll theme.
+tagline:             No tenemos respuestas, buscamos preguntas
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  Open `_config.yml` to edit this text.
+  Creative-tech meeting enfocado a la generación de ideas sobre sociedad, ciudad e innovación
+
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  name:              <@thedigitaldebate>
+  email:             <thedigitaldebate@gmail.com>
 
 # Fallback image and color
 image:               /hydejack/assets/img/nap.jpg
@@ -51,7 +51,7 @@ google_analytics:    <UA-XXXXXXXX-X>
 disqus_shortname:    <username>
 
 # This text will appear in the footer of every page. Markdown enabled.
-copyright:           '&copy; 2017. All rights reserved.'
+copyright:           '&copy; 2017. The Digital Debate is a registered brand from adddata ltda.'
 
 # Format of the permalinks
 permalink:           pretty
